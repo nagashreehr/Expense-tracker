@@ -1,4 +1,4 @@
-import styles from './TransactionCard'
+import styles from './TransactionCard.module.css'
 import { IoMdCloseCircleOutline } from "react-icons/io";
 import { PiPizza, PiGift } from "react-icons/pi";
 import { MdOutlineModeEdit } from "react-icons/md";
